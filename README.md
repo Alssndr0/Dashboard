@@ -1,6 +1,7 @@
 # Dashboard
 
 This is a dashboard created in Tableau, for a business with three branches, in London. 
+
 The dashboard is connected to the data sources and updates in real time. 
 
 Metrics tracked:
